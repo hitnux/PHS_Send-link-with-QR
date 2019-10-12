@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    overflow: hidden; 
+}
+body{
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+#qr{
+   width: 200px;
+   height: 200px;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "PHS - Send Link with QR",
+  "manifest_version": 2,
+  "description": "send link with QR",
+  "version": "1.0",
+  "icons": {
+    "128": "assets/icon_128.png"
+  },
+  "browser_action":{
+    "default_title":"PHS - Send Link with QR",
+    "default_popup":"index.html"
+  },
+  "permissions":[
+    "tabs",
+    "activeTab"
+  ],
+  "homepage_url": "https://github.com/hlilbilgin"
+}
